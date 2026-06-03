@@ -1,6 +1,6 @@
 
 const long myChannelNumber = "YOUR_THINGSPEAK_CHANNEL_ID" ;
-const char* myWriteAPIKey = "YOUR_THINGSPEAK_CHANNEL_ID";
+const char* myWriteAPIKey = "YOUR_THINGSPEAK_API_KEY";
 
 // WiFi Credentials
 const char* ssid = "YOUR_WIFI_SSID";
